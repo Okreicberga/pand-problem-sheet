@@ -10,8 +10,3 @@ Format BMI for print two decimilars
 
 <https://metanit.com/python/tutorial/5.3.php>
 <hr>
-<hr>
-
-
-
-
