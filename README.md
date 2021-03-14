@@ -37,3 +37,19 @@ Have the program end if the current value is one.
 
 <hr> 
 
+<h2>Week06- A program that takes a positive floating-point number as input and outputs an approximation of its square root.</h2>
+
+**References:**  
+<https://www.sololearn.com/Discuss/2228331/how-can-we-calculate-square-root-without-using-any-built-in-function-in-python>
+
+<https://www.quora.com/How-do-I-write-a-program-for-finding-the-square-root-of-a-number-without-using-the-sqrt-function>
+<https://stackoverflow.com/questions/44422918/square-root-to-2-decimal-places>
+<hr>
+
+
+<h2>Week07 - A program that reads in a text file and outputs the number of e's it contains.</h2>
+# I use the code, where user can put any letter without changing the code. 
+
+**References:**  
+https://www.sanfoundry.com/python-program-read-file-counts-number/ 
+<hr>
