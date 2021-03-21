@@ -54,3 +54,18 @@ Have the program end if the current value is one.
 **References:**  
 https://www.sanfoundry.com/python-program-read-file-counts-number/ 
 <hr>
+
+<h2>Week08 - a program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.</h2>
+
+**References:**  
+
+https://www.sitepoint.com/plot-charts-python-matplotlib/
+
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+
+https://scriptverse.academy/tutorials/python-matplotlib-plot-function.html
+
+https://matplotlib.org/stable/gallery/index.html 
+
+<hr>
+
